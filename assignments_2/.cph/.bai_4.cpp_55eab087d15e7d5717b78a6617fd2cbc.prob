@@ -1,0 +1,1 @@
+{"name":"Local: bai_4","url":"d:\\assigment_DSA\\assignments_2\\bai_4.cpp","tests":[{"id":1739972945836,"input":"7\nenqueue 1\nenqueue 2\nenqueue 3\nenqueue 4\ndequeue\ndequeue\nenqueue 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\assigment_DSA\\assignments_2\\bai_4.cpp","group":"local","local":true}
