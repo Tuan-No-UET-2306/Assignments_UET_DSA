@@ -1,1 +1,0 @@
-{"name":"Local: bai_5","url":"d:\\assigment_DSA\\assignments_2\\bai_5.cpp","tests":[{"id":1739973450021,"input":"7\npush 1\npush 2\npush 3\npush 4\npop\npop\npush 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\assigment_DSA\\assignments_2\\bai_5.cpp","group":"local","local":true}
